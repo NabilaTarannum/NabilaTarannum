@@ -14,3 +14,21 @@
 [<img align="left"  width="30px" src="https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/35px/facebook.png" alt="Facebook"/>][facebook]
 
 [facebook]: https://www.facebook.com/nabila.tarannum.2023
+
+
+
+
+<div align="center">
+  <a href="https://twitter.com/madatbay" target="_blank">
+    <img alt="Twitter" src="https://img.shields.io/badge/madatbay-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/madat-bayramov-2b3b78160/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.facebook.com/nabila.tarannum.2023" target="_blank">
+  <img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/>
+  </a>
+  <a href="mailto:medet.bayramov22@gmail.com" target="_blank">
+  <img alt="Gmail" src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+</div>
