@@ -12,7 +12,7 @@
 
 <div align="center">
   <a href="https://twitter.com/TarannumNabila" target="_blank">
-    <img alt="Twitter" src="https://img.shields.io/badge/madatbay-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
+    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/NabilaTarannum/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
