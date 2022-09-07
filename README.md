@@ -20,7 +20,7 @@
   <a href="https://www.facebook.com/nabila.tarannum.2023" target="_blank">
   <img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/>
   </a>
-  <a href="nabilatarannum2023@gmail.com" target="_blank">
+  <a href="mailto:nabilatarannum2023@gmail.com" target="_blank">
   <img alt="Gmail" src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 </div>
