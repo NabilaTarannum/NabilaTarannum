@@ -24,9 +24,9 @@ and learning new technologies every day.
 
 <h2>🛠️ Tech Stack</h2>
 <ul>
-  <li><b>Languages:</b> Python, JavaScript, HTML, CSS</li>
+  <li><b>Languages:</b> Python, C, C++, HTML, CSS</li>
   <li><b>Frameworks:</b> Flask, React (learning), Bootstrap</li>
-  <li><b>Tools:</b> Git, VS Code, Linux, Figma</li>
+  <li><b>Tools:</b> Git, VS Code, Linux</li>
 </ul>
 
 <hr>
@@ -53,8 +53,8 @@ and learning new technologies every day.
 
 <h2>💬 Connect With Me</h2>
 <ul>
-  <li>✉️ <b>Email:</b> nabila.tarannum@example.com</li>
-  <li>🌍 <b>Portfolio:</b> <a href="#">nabilatarannum.github.io</a></li>
+  <li>✉️ <b>Email:</b> nabilatarannum2023@gmail.com</li>
+  <li>🌍 <b>Portfolio:</b> <a href="#">NabilaTarannum.github.io</a></li>
   <li>💼 <b>LinkedIn:</b> <a href="#">linkedin.com/in/nabilatarannum</a></li>
 </ul>
 
