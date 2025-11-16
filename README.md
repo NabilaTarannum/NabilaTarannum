@@ -54,7 +54,7 @@ and learning new technologies every day.
 <h2>💬 Connect With Me</h2>
 <ul>
   <li>✉️ <b>Email:</b> nabilatarannum2023@gmail.com</li>
-  <li>🌍 <b>Portfolio:</b> <a href="NabilaTarannum.github.io">Nabila Tarannum</a></li>
+  <li>🌍 <b>Portfolio:</b> <a href="nabilatarannum.github.io">Nabila Tarannum</a></li>
   <li>💼 <b>LinkedIn:</b> <a href="linkedin.com/in/nabilatarannum">Nabila Tarannum</a></li>
 </ul>
 
