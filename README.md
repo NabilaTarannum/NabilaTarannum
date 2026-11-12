@@ -13,8 +13,20 @@
 ### 🛠️ Technical Arsenal & Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cpp,c,linux,git,github,vscode,jupyter,bash&theme=dark&perline=8" />
+    <img src="https://skillicons.dev/icons?i=python,cpp,c,bash,vim,apple,git,github,vscode,html,pycharm,stackoverflow&theme=dark&perline=6" />
   </a>
+  <br>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter">
+  <img src="https://img.shields.io/badge/Zsh-FAF41E?style=for-the-badge&logo=gnubash&logoColor=black" alt="Zsh">
+  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown">
+</p>
+
+### 📚 Currently Learning & Exploring
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark">
+  <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap">
+  <img src="https://img.shields.io/badge/Regex-333333?style=for-the-badge&logo=regex&logoColor=white" alt="Regex">
 </p>
 
 ---
@@ -97,6 +109,9 @@
   <a href="mailto:nabilatarannum2023@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
+     <a href="https://discord.com/users/885604790774689842" target="_blank">
+     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+   </a>
 </p>
 
 <div align="center">
