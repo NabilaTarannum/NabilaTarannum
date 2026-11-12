@@ -61,6 +61,4 @@ Looking for a reliable developer for your next data project?
 
 <div align="center">
   <i>"Code is like humor. When you have to explain it, it’s bad." – Cory House</i>
-  <br><br>
-  <img src="https://komarev.com/ghpvc/?username=NabilaTarannum&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
