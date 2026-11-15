@@ -1,9 +1,9 @@
 <div align="center">
   <h1>Hi there, I'm Nabila Tarannum <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-  <h3>🛡️ Aspiring Cybersecurity Engineer | Python Developer 🐍</h3>
-  <p>Leveraging algorithmic logic, data parsing, and automation to build secure systems and analyze complex security datasets.</p>
+  <h3>📊 Aspiring Big Data Engineer | Python Developer 🐍</h3>
+<p>Using Python, data analysis and automation to clean, explore and visualise complex datasets, and building towards big data engineering.</p>
   
-  <a href="https://nabilatarannum.github.io" target="_blank">
+  <a href="https://na;[p]bilatarannum.github.io" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-nabilatarannum.github.io-3fb950?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio Badge">
   </a>
 </div>
@@ -37,7 +37,7 @@
   <tr>
     <td width="50%" align="center">
       <b>🔥 Current Streak</b><br><br>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=NabilaTarannum&theme=dark&hide_border=true&stroke=3fb950&ring=58a6ff&fire=3fb950&currStreakNum=58a6ff" alt="Streak Stats" width="100%" />
+      <img src="https://streak-stats.demolab.com/?user=NabilaTarannum&theme=dark&hide_border=true&stroke=3fb950&ring=58a6ff&fire=3fb950&currStreakNum=58a6ff" alt="Streak Stats" width="100%" />
     </td>
     <td width="50%" align="center">
       <b>📈 Profile Summary</b><br><br>
@@ -64,16 +64,16 @@
       <a href="https://github.com/NabilaTarannum/Problem-Solving">View Repo →</a>
     </td>
     <td width="50%" valign="top">
-      <b>📊 Data Analysis & Security Parsing</b><br>
-      Python and Jupyter Notebook projects focused on cleaning, structuring, and analyzing complex datasets, including security log parsing.<br>
+      <b>📊 Exploratory Data Analysis</b><br>
+      Haberman survival data analysed with Pandas, Seaborn and Plotly: distributions, pair plots, contour plots and an interactive 3D plot.<br>
       <a href="https://github.com/NabilaTarannum/Data_Analysis">View Repo →</a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <b>🕵️ OSINT & Reconnaissance Tooling</b><br>
-      Exploring CLI-based automated data gathering and Open Source Intelligence (OSINT) techniques for threat intelligence.<br>
-      <a href="https://github.com/NabilaTarannum/Agent-Reach">View Repo →</a>
+      <b>🐍 Python Projects</b><br>
+      Calculators, clocks, GUI apps, turtle graphics, a Sudoku solver and small automation scripts.<br>
+      <a href="https://github.com/NabilaTarannum/Python_Projects">View Repo →</a>
     </td>
     <td width="50%" valign="top">
       <b>💻 Programming Coursework</b><br>
